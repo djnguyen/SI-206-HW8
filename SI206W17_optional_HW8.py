@@ -6,7 +6,8 @@ import glob, os # tools to help you deal with files, in standard library, not ne
 ## SI 206 Winter 2017
 ## Optional HW: Building an Album
 
-## Comment with your name:
+## Comment with your name: David Nguyen (djnguyen)
+## Discussion: Thursday (3-4 PM)
 ## Anyone you worked with on this assignment:
 
 ## The score for this assignment can replace your lowest score on HW 2 - HW 7. 
@@ -54,7 +55,7 @@ import glob, os # tools to help you deal with files, in standard library, not ne
 # Define your PhotoAlbum class here:
 
 
-
+print ("SKIPPING CUZ ITS OPTIONAL")
 
 
 
